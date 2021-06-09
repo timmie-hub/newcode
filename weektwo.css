@@ -1,0 +1,24 @@
+.timi{ background-image: url(image/bg-desktop.svg); padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: indigo;
+    border-radius: 0.3rem;}
+/* .img{padding: auto;width: 20px;
+     height: 20px; 
+     color: rgb(255, 255, 255);
+    float: left;
+     border-spacing: 3px;  */
+     .img1{
+         float: right;
+         width: 20px;
+         height: 20px;
+         color: white;
+         margin-right: 10px;
+     }
+
+.div2{color: white;padding-left: 4cm;padding-top:2cm;}
+button{background-color: white;
+     border-radius: 10px; 
+     border-color: transparent;
+      width: 3cm; 
+      height: 1cm; 
+      color: indigo; box-shadow: 5px 3px rgb(48, 47, 47);}

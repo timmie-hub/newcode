@@ -1,0 +1,42 @@
+body{background-color: cornsilk; margin-top: 3cm; margin-left: 7.5cm;}
+
+.car1,.car2,.car3{
+    margin-top: 3cm; 
+    float: left; 
+    padding: 2em;
+     width: 20%;
+      height: 350px; color: white;} 
+
+.car1{background-color: rgb(243, 138, 0);
+    border-top-left-radius: 10px;
+     border-bottom-left-radius: 10px;}
+
+.car2{background-color: rgb(36, 116, 148);}
+
+.car3{background-color: rgb(20, 100, 100); 
+    border-top-right-radius: 10px; 
+    border-bottom-right-radius: 10px;}
+
+
+.button1{background-color: papayawhip;
+     border-radius:20px; 
+     padding: 10px;
+     font-size: 15px;
+      color:rgb(243, 138, 0);
+      border-color: transparent;}
+
+.button2{background-color: papayawhip;
+     border-radius:20px; padding: 10px;
+     font-size: 15px;
+      color: rgb(36, 116, 148);
+      border-color:transparent;}
+
+.button3{background-color: papayawhip;
+    border-radius:20px; 
+    padding: 10px;
+    font-size: 15px; 
+    color:rgb(20, 100, 100);
+    border-color: transparent;}
+
+
+    /* img{size: 30px;} */

@@ -1,0 +1,83 @@
+.section{ background-color: rgb(78, 78, 214);
+     background-image: url(image/bg-desktop.svg); }
+
+.para{ margin-top: 2.5cm; 
+     margin-left: 2.5cm;
+      color: white; 
+      width: 19cm;}
+
+.section1{background-color: white; 
+    margin-top:2.1cm ; 
+     width: 13cm; 
+     height: 11cm; 
+     margin-left: 3cm;}
+
+.form{margin: 10px;
+      text-align: center;}
+
+.inp{height:1.5cm; 
+     width:6cm;}
+
+.inp1{height: 1.5cm;
+      width: 12cm;}
+
+.inp3{background-color: royalblue;
+     width: 12cm; 
+    border-color: transparent;
+     height: 1.5cm;
+      text-align: center;}
+
+.inp2{width: 12cm;
+height: 1.5cm;}
+
+.hit{margin-left:1cm;}
+
+.spac{margin-left: 2.5cm;
+       margin-top: 1cm; 
+       color: white;
+        font-size: 1.2em;}
+
+.img{ width: 25px; height: 25px;}
+
+.div1{height: 15cm;}
+
+.avatar{text-align: center;
+      font-size:1.2em; margin-left: 1.5cm;}
+
+.avatar1{text-align: center;
+     font-size:1.2em;margin-right:1.5cm;}
+
+.avatar2{text-align: center;
+     font-size:1.2em;}
+
+.vatar{border-radius: 50%;}
+
+.font{font-weight: bold;}
+
+.section2{text-align: center; height: 11cm; margin-left: 2.5cm;margin-right: 2.5cm;}
+
+.group{height: 10cm; width:14cm; margin-left: 1cm;}
+
+.section3{text-align:center; margin-top: 2px;}
+
+.section45{margin-left:2 ;}
+
+.input5{background-color: rgb(88, 88, 240);
+     border-radius: 5px;
+      border: transparent;
+       height: 1.1cm;
+       width: 5cm; text-align: center; color: wheat;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
